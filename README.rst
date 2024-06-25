@@ -21,6 +21,12 @@ Mopidy-WebSettings
 Mopidy extension for editing settings in a webinterface. Used by Pi MusicBox, but also usable for personal installations or other projects, since MusicBox-only settings are hidden automatically.
 
 
+This project is no longer maintained.
+============
+
+There will be no more releases and no more support from myself.
+
+
 Installation
 ============
 
